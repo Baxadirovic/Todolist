@@ -1,10 +1,10 @@
 import "./App.css";
-import Todo from "./Todo/Todo";
+import Home from "./Countyies/Home";
 
 function App() {
   return (
     <>
-      <Todo />
+      <Home />
     </>
   );
 }
